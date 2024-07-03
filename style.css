@@ -1,0 +1,67 @@
+
+.container {
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 600px;
+    background-repeat: no-repeat;
+    padding-right: 25px;
+}
+
+.limited {
+    background-color: rgb(51, 159, 100);
+    height: 500px;
+    width: 600px;
+    background-repeat: no-repeat;
+    float: left;
+    padding-left: 25px;
+    justify-content: center;
+}
+
+#irfan {
+    display: flex;
+    border-style: ridge;
+
+}
+
+.limited h1 {
+    color: azure;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 40px;
+}
+
+.limited p {
+    color: beige;
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: darkkhaki;
+    color: white;
+    border-radius: 2px;
+    font-size: 20px;
+    margin-left: 250px;
+}
+
+#down {
+    padding-left: 60px;
+    border-radius: 15px;
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+    color: azure;
+    text-align: center;
+}
+
+.container button {
+    background-color: blue;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.chatta {
+    padding-left: 250px;
+
+}
